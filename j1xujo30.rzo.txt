@@ -1,0 +1,45 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   .htaccess
+#	new file:   .htaccess.sample
+#	new file:   .php_cs
+#	new file:   .travis.yml
+#	new file:   app/.htaccess
+#
+# Changes not staged for commit:
+#	deleted:    index.html
+#
+# Untracked files:
+#	CHANGELOG.md
+#	CONTRIBUTING.md
+#	CONTRIBUTOR_LICENSE_AGREEMENT.html
+#	COPYING.txt
+#	Gruntfile.js
+#	LICENSE.txt
+#	LICENSE_AFL.txt
+#	app/autoload.php
+#	app/bootstrap.php
+#	app/etc/
+#	app/functions.php
+#	bin/
+#	composer.json
+#	composer.lock
+#	dev/
+#	index.php
+#	lib/
+#	nginx.conf.sample
+#	package.json
+#	php.ini.sample
+#	phpserver/
+#	pub/
+#	setup/
+#	update/
+#	var/
+#	vendor/
+#
+
